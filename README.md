@@ -47,5 +47,5 @@ Created a **dedicated Security Group** and **Key Pair** to allow secure access b
 - Initialized the project locally and built it using **Maven**:
   ```bash
   mvn clean package
-```
+  ```
 
