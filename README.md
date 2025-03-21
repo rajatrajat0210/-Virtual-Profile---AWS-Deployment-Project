@@ -48,4 +48,5 @@ Created a **dedicated Security Group** and **Key Pair** to allow secure access b
   ```bash
   mvn clean package
   ```
+- Clone the Project and run it using maven to get the target.war file and deploy it into beanstalk to get the web app running.
 
