@@ -25,6 +25,7 @@ sql dump file:
 # 🌐 Virtual Profile - AWS Deployment Project
 
 This project demonstrates how to deploy a **Virtual Profile** web application using various AWS services for a secure, scalable, and production-ready environment.
+![img alt]()
 
 ---
 
@@ -73,4 +74,11 @@ Created a **dedicated Security Group** and **Key Pair** to allow secure access b
   mvn clean package
   ```
 - Clone the Project and run it using maven to get the target.war file and deploy it into beanstalk to get the web app running.
+
+
+### 6. ☁️ Using Multiple Instances of VM's for each Service if you don't want to use Beanstalk.
+![img alt]()
+
+
+
 
