@@ -25,7 +25,7 @@ sql dump file:
 # 🌐 Virtual Profile - AWS Deployment Project
 
 This project demonstrates how to deploy a **Virtual Profile** web application using various AWS services for a secure, scalable, and production-ready environment.
-![img alt]()
+![img alt](https://github.com/rajatrajat0210/-Virtual-Profile---AWS-Deployment-Project/blob/main/AWS_SSL.png?raw=true)
 
 ---
 
@@ -77,7 +77,7 @@ Created a **dedicated Security Group** and **Key Pair** to allow secure access b
 
 
 ### 6. ☁️ Using Multiple Instances of VM's for each Service if you don't want to use Beanstalk.
-![img alt]()
+![img alt](https://github.com/rajatrajat0210/-Virtual-Profile---AWS-Deployment-Project/blob/main/AWS_Vm's.png?raw=true)
 
 
 
